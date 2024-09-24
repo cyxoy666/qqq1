@@ -65,7 +65,7 @@ class DieselCar extends Car implements FuelPowered {
         System.out.println("Refueling the diesel car.");
     }
 }
-
+//обновление на 2-м аккаунте
 public class Main {
     public static void main(String[] args) {
         ElectricCar tesla = new ElectricCar("Tesla", "Model S", 4);
