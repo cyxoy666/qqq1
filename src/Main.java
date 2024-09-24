@@ -6,7 +6,7 @@ interface FuelPowered {
     void refuel();
 
 }
-//asdasd
+//asdasdasdasdasd
 abstract class Vehicle {
     String brand;
     String model;
